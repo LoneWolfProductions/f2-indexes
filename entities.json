@@ -1,10 +1,18 @@
 [
   {
     "kind": "items",
+    "id": "copper_ore",
+    "name": "Copper Ore",
+    "path": "game/items/copper.yml",
+    "sha1": "9cc0b6b6879578328325622a3051366c66e29fac",
+    "mtime": 1757189657
+  },
+  {
+    "kind": "items",
     "id": "iron_ore",
     "name": "Iron Ore",
     "path": "game/items/iron_ore.yml",
     "sha1": "51305b2a34b4681da198082839e3d57dddd4e0f6",
-    "mtime": 1757188628
+    "mtime": 1757189670
   }
 ]
