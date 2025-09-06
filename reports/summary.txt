@@ -3,5 +3,5 @@ DUPLICATE IDS: (none)
 MISSING REFERENCES: (none)
 
 LOOSE ENDS:
-  NEVER PRODUCED: (none)
-  NEVER CONSUMED: (none)
+  NEVER PRODUCED: iron_ore
+  NEVER CONSUMED: iron_ore

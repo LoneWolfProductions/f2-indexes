@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "kind": "items",
+    "id": "iron_ore",
+    "name": "Iron Ore",
+    "path": "game/items/iron_ore.yml",
+    "sha1": "51305b2a34b4681da198082839e3d57dddd4e0f6",
+    "mtime": 1757188628
+  }
+]
