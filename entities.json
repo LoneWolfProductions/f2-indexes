@@ -14,5 +14,13 @@
     "path": "game/items/iron_ore.yml",
     "sha1": "51305b2a34b4681da198082839e3d57dddd4e0f6",
     "mtime": 1757189670
+  },
+  {
+    "kind": "items",
+    "id": "stone_ore",
+    "name": "stone Ore",
+    "path": "game/items/stone.yml",
+    "sha1": "a1e4147bb5b1633b4174ddd16c4c4eeda7670417",
+    "mtime": 1757190013
   }
 ]
